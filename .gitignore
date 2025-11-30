@@ -1,0 +1,16 @@
+# dependencies
+node_modules
+yarn.lock
+
+# build output
+.next
+out
+dist
+turbo
+
+# misc
+.DS_Store
+*.log
+.env
+.env.*
+.vercel
